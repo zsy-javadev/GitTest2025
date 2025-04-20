@@ -7,10 +7,16 @@ package com.kk.domain;
  */
 public class Person {
     private String id;
+
     private String name;
+
     private int age;
+
     private double score;
+
     private String bran11;
+
+    private String bran22;
 
     public double getScore() {
         return score;
