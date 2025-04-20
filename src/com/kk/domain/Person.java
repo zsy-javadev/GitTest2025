@@ -10,6 +10,7 @@ public class Person {
     private String name;
     private int age;
     private double score;
+    private String bran11;
 
     public double getScore() {
         return score;
